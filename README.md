@@ -63,9 +63,9 @@
 
   ```sh
   $ git init
-  $ git branch -m master main
   $ git add .
   $ git commit -m "initial commit"
+  $ git branch -m master main
   $ git remote add origin git@github.com:hfujiyos/nextjs-food-delivery-backend.git
   $ git push -u origin main
   ```
